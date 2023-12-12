@@ -11,7 +11,7 @@ const config: Config = {
   url: 'https://cronica-it.github.io/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/archive/',
+  baseUrl: '/arhiva/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -66,7 +66,7 @@ const config: Config = {
         },
         {
           label: 'GitHub',
-          href: 'https://github.com/cronica-it/archive',
+          href: 'https://github.com/cronica-it/arhiva',
           position: 'right',
         },
       ],
