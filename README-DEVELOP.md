@@ -9,6 +9,10 @@ The site is published at:
 
 - <https://cronica-it.github.io/arhiva/>
 
+The binary files are published as release artefacts, grouped by year.
+
+- <https://github.com/cronica-it/arhiva/releases>
+
 ## Issues
 
 - [links to downloadable PDFs](https://github.com/facebook/docusaurus/discussions/9605)
