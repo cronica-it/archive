@@ -1,5 +1,5 @@
 // import clsx from 'clsx';
-import Heading from '@theme/Heading';
+// import Heading from '@theme/Heading';
 // import styles from './styles.module.css';
 
 // Component to render a link that downloads a PDF file.
