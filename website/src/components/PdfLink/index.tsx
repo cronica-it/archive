@@ -2,7 +2,7 @@
 import Heading from '@theme/Heading';
 // import styles from './styles.module.css';
 
-
+// Component to render a link that downloads a PDF file.
 export function PdfLink({ href }): JSX.Element {
   return (
     <a href={href} target="_blank">
