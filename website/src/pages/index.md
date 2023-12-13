@@ -23,6 +23,10 @@ preuniversitar românesc 1985-2018**_ (arhivat de la [academia.edu](https://www.
 
 - Alexandru Rotaru: _**De la Free Software la Internet - Relatări din primii ani de Free Software și Internet în România**_ <a href="https://github.com/cronica-it/arhiva/releases/download/2013/arot-brosura-a5-tipar.pdf" target="_blank"><img class="link-icon" src="./img/pdf-24.png" width="24" height="24" alt="PDF"/></a>
 
+### 1990
+
+- Nicoară Paulian despre situația din România în _**Personal Computing in Eastern Europe**_ <a href="https://github.com/cronica-it/arhiva/releases/download/1990/byte-1990-lixco.pdf" target="_blank"><img class="link-icon" src="./img/pdf-24.png" width="24" height="24" alt="PDF"/></a>
+
 ### 1986
 
 - Ștință și Tehnică, suplimentul _**Calculatorul, nimic mai simplu!**_ (arhivat de la [google.com/site/georgechirtoaca](https://sites.google.com/site/georgechirtoaca/documentation)) <a href="https://github.com/cronica-it/arhiva/releases/download/1986/stiinta-tehnica-calculatorul-nimic-mai-simplu.pdf" target="_blank"><img class="link-icon" src="./img/pdf-24.png" width="24" height="24" alt="PDF"/></a>
