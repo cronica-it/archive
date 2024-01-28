@@ -1,7 +1,7 @@
 # arhiva
 
-This project is used to store the archive of PDFs and other binary files
-for the **Cronica IT&C** project.
+This repository is part of the **Cronica IT&C** project,
+and is used to store the archive of PDFs and other binary files.
 
 The files are grouped by years and stored as release artefacts:
 
