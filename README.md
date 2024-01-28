@@ -1,5 +1,8 @@
 # arhiva
 
-O archivă cu documente PDF și alte fișiere binare.
+This project is used to store the PDFs and other binary files
+for the **Cronica IT&C** project.
 
-Proiectul este găzduit de GitHub [cronica-it/arhiva](https://github.com/cronica-it/arhiva), și este vizibil ca un [sit web](https://cronica-it.github.io/arhiva/).
+The files are grouped by years and stored as release artefacts:
+
+- <https://github.com/cronica-it/arhiva/releases>
